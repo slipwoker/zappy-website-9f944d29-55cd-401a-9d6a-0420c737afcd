@@ -1,0 +1,55 @@
+# פלאפל הנשיא — Generative Engine Optimization Map
+
+> פלאפל הנשיא is a falafel franchise brand seeking to expand through a franchising model. The brand carries a bold, presidential identity with a street-food heritage rooted in Israeli culinary culture. The landing page aims to attract potential franchisees and investors by showcasing the business opportunity, brand strength, and support system offered to franchise partners.
+
+---
+
+## Pages
+
+### דף הבית
+https://-9f944d29.zappy5.app
+הצטרפו למהפכת הטעם עם זיכיון פלאפל הנשיא — מותג רחוב ישראלי נועז שמחפש שותפים עסקיים. גלו מודל זכיינות רווחי, תמיכה מלאה ומורשת קולינרית מנצחת. השאירו פרטים עוד היום!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-9f944d29.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-9f944d29.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-9f944d29.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פלאפל הנשיא
+פלאפל הנשיא is a falafel franchise brand seeking to expand through a franchising model. The brand carries a bold, presidential identity with a street-food heritage rooted in Israeli culinary culture. The landing page aims to attract potential franchisees and investors by showcasing the business opportunity, brand strength, and support system offered to franchise partners.
+
+## Target Audience
+- יזמים ומשקיעים המעוניינים ברכישת זכיינות
+- יזמים ומשקיעים
+- יזמים חובבי מזון
+- בעלי זכיינות מנוסים
+
+## Industry
+Food & Beverage Franchise
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-9f944d29.zappy5.app/sitemap.xml
+- Robots: https://-9f944d29.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-9f944d29.zappy5.app/llms-full.txt
