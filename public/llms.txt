@@ -30,6 +30,7 @@ Information about WCAG compliance and accessibility features.
 
 - Phone: 0505155101
 - Phone (tel): tel:0505155101
+- Address: הנשיא 10 , עפולה
 
 ---
 
